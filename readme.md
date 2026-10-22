@@ -1,4 +1,4 @@
-# The Builder Patron
+# The Builder Pattern
 
 > Construct complex objects step by step.
 
@@ -7,4 +7,4 @@ object using the same construction code.
 
 ## Related
 
-> I will make other repositories about other patrons and put them here.
+> I will make other repositories about other patterns and put them here.
